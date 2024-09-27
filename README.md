@@ -30,10 +30,11 @@ The project has a basic structure:
 
 plaintext
 goodtwo-project/
-|
+│
 ├── index.html         # Main HTML file
 ├── styles.css         # Main CSS file
 ├── app.js             # JavaScript for interactivity and animations
+
 
 
 - *index.html*: Contains the structure of the webpage.
