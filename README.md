@@ -31,7 +31,7 @@ The project has a basic structure:
 plaintext  <br>
 goodtwo-project/   <br>
 │   <br>
-├── index.html &nbsp;&nbsp;&nbsp;       # Main HTML file   <br>
+├── <pre>index.html                # Main HTML file   <br></pre>
 ├── styles.css  &nbsp;&nbsp;&nbsp;        # Main CSS file   <br>
 ├── app.js  &nbsp;&nbsp;&nbsp;           # JavaScript for interactivity and animations   <br>
 
