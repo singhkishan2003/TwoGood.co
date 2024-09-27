@@ -1,6 +1,6 @@
-# TwoGood.co
+# TwoGood.co Project
 
-GoodTwo is an interactive web project developed using *HTML, **CSS, **JavaScript, and **GSAP* (GreenSock Animation Platform) for animations. The project showcases modern web design techniques combined with smooth, high-performance animations.
+TwoGood is an interactive web project developed using *HTML, **CSS, **JavaScript, and **GSAP* (GreenSock Animation Platform) for animations. The project showcases modern web design techniques combined with smooth, high-performance animations.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ GoodTwo is an interactive web project developed using *HTML, **CSS, **JavaScript
 
 ## Introduction
 
-GoodTwo is designed to demonstrate how HTML, CSS, JavaScript, and GSAP can be used together to build dynamic and interactive web experiences. The project includes complex animations and transitions to create a smooth, engaging user interface.
+TwoGood is designed to demonstrate how HTML, CSS, JavaScript, and GSAP can be used together to build dynamic and interactive web experiences. The project includes complex animations and transitions to create a smooth, engaging user interface.
 
 ## Technologies Used
 
