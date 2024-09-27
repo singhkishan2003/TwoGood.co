@@ -28,9 +28,9 @@ GoodTwo is designed to demonstrate how HTML, CSS, JavaScript, and GSAP can be us
 
 The project has a basic structure:
 
-plaintext
-goodtwo-project/
-│
+plaintext<br>
+goodtwo-project/<br>
+│<br>
 ├── index.html         # Main HTML file
 ├── styles.css         # Main CSS file
 ├── app.js             # JavaScript for interactivity and animations
